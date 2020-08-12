@@ -1,472 +1,24 @@
 [
    {
-      "sl":21,
-      "district":"Hooghly",
-      "name":"Shramajibi Hospital",
-      "total":100,
-      "vacant":26
-   },
-   {
-      "sl":22,
-      "district":"Hooghly",
-      "name":"ESI Hospital, Bandel",
-      "total":250,
-      "vacant":224
-   },
-   {
-      "sl":23,
-      "district":"Hooghly",
-      "name":"Blue View Nursing Home",
-      "total":30,
-      "vacant":17
-   },
-   {
-      "sl":24,
-      "district":"Hooghly",
-      "name":"Seven Rangers",
-      "total":90,
-      "vacant":90
-   },
-   {
-      "sl":25,
-      "district":"Hooghly",
-      "name":"Kamala Roy",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":26,
-      "district":"Hooghly",
-      "name":"Arambagh Nursing Home",
-      "total":30,
-      "vacant":30
-   },
-   {
-      "sl":27,
-      "district":"Hooghly",
-      "name":"ESI Hospital, Gourhati",
-      "total":216,
-      "vacant":216
-   },
-   {
-      "sl":28,
-      "district":"Howrah",
-      "name":"Sanjiban Hospital",
-      "total":500,
-      "vacant":279
-   },
-   {
-      "sl":29,
-      "district":"Howrah",
-      "name":"ILS, Golabari",
-      "total":100,
-      "vacant":14
-   },
-   {
-      "sl":30,
-      "district":"Howrah",
-      "name":"Satyabala IDH",
-      "total":25,
-      "vacant":9
-   },
-   {
-      "sl":31,
-      "district":"Howrah",
-      "name":"ESI Hospital, Baltikuri",
-      "total":230,
-      "vacant":164
-   },
-   {
-      "sl":32,
-      "district":"Howrah",
-      "name":"Uluberia ESI Hospital",
-      "total":216,
-      "vacant":119
-   },
-   {
-      "sl":33,
-      "district":"Howrah",
-      "name":"Narayana Hospital Old Building, West\r\nBank Hospital",
-      "total":130,
-      "vacant":76
-   },
-   {
-      "sl":34,
-      "district":"Howrah",
-      "name":"TLJ Hospital",
-      "total":250,
-      "vacant":176
-   },
-   {
-      "sl":35,
-      "district":"Jalpaiguri",
-      "name":"Biswabangla Krirangan",
-      "total":200,
-      "vacant":74
-   },
-   {
-      "sl":36,
-      "district":"Jalpaiguri",
-      "name":"Agrasen Hospital",
-      "total":41,
-      "vacant":41
-   },
-   {
-      "sl":37,
-      "district":"Jhargram",
-      "name":"Jhargram Night Shelter",
-      "total":75,
-      "vacant":75
-   },
-   {
-      "sl":38,
-      "district":"Kalimpong",
-      "name":"Triveni Hospital",
-      "total":150,
-      "vacant":137
-   },
-   {
-      "sl":39,
-      "district":"Malda",
-      "name":"EHC Glocal Hospital, Malda",
-      "total":100,
-      "vacant":84
-   },
-   {
-      "sl":40,
-      "district":"Malda",
-      "name":"Dishari Nursing Home, Chanchal",
-      "total":30,
-      "vacant":30
-   },
-   {
-      "sl":41,
-      "district":"Malda",
-      "name":"Manikchak Model School,Manikchak",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":42,
-      "district":"Malda",
-      "name":"Trauma Care Centre",
-      "total":125,
-      "vacant":97
-   },
-   {
-      "sl":43,
-      "district":"Murshidabad",
-      "name":"Old Matri Sadan Hospital",
-      "total":120,
-      "vacant":42
-   },
-   {
-      "sl":44,
-      "district":"Murshidabad",
-      "name":"Monmohini Private Health Care",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":45,
-      "district":"Murshidabad",
-      "name":"Gitaram Private Hospital",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":46,
-      "district":"Murshidabad",
-      "name":"Lalbagh Rainbow Nursshing Home",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":47,
-      "district":"Murshidabad",
-      "name":"Basumati Healthcare Private Ltd",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":48,
-      "district":"Murshidabad",
-      "name":"Khristio Seba Sadan",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":49,
-      "district":"Nadia",
-      "name":"SNR carnival Hospital",
-      "total":120,
-      "vacant":61
-   },
-   {
-      "sl":50,
-      "district":"Nadia",
-      "name":"Glocal Hospital, Nadia",
-      "total":150,
-      "vacant":73
-   },
-   {
-      "sl":51,
-      "district":"Nadia",
-      "name":"T B Hospital, Kalyani",
-      "total":300,
-      "vacant":300
-   },
-   {
-      "sl":52,
-      "district":"North 24 Pgs",
-      "name":"Al Amin Gopalpur Nursing Home",
-      "total":50,
-      "vacant":37
-   },
-   {
-      "sl":53,
-      "district":"North 24 Pgs",
-      "name":"GNRC",
-      "total":84,
-      "vacant":7
-   },
-   {
-      "sl":54,
-      "district":"North 24 Pgs",
-      "name":"Megacity Nursing Home",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":55,
-      "district":"North 24 Pgs",
-      "name":"Nehru Memorial Techno Global",
-      "total":134,
-      "vacant":87
-   },
-   {
-      "sl":56,
-      "district":"North 24 Pgs",
-      "name":"Bibhuti Nursing Home",
-      "total":10,
-      "vacant":10
-   },
-   {
-      "sl":57,
-      "district":"North 24 Pgs",
-      "name":"Subodh Mitra Cancer Hospital",
-      "total":40,
-      "vacant":40
-   },
-   {
-      "sl":58,
-      "district":"North 24 Pgs",
-      "name":"COM & Sagar Datta Hospital",
-      "total":500,
-      "vacant":297
-   },
-   {
-      "sl":59,
-      "district":"North 24 Pgs",
-      "name":"Charnock Hospital",
-      "total":20,
-      "vacant":20
-   },
-   {
-      "sl":60,
-      "district":"Paschim\r\nBardhaman",
-      "name":"Sanaka Hospital",
-      "total":400,
-      "vacant":272
-   },
-   {
-      "sl":61,
-      "district":"Paschim\r\nBardhaman",
-      "name":"HLG Hospitals",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":62,
-      "district":"Paschim Medinipur",
-      "name":"St. Joseph Hospital",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":63,
-      "district":"Paschim Medinipur",
-      "name":"AYUSH Corona Hospital, Paschim\r\nMedinipore",
-      "total":80,
-      "vacant":14
-   },
-   {
-      "sl":64,
-      "district":"Paschim Medinipur",
-      "name":"Glocal Corona Hospital, Paschim\r\nMedinipore",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":65,
-      "district":"Paschim Medinipur",
-      "name":"Salboni SSH",
-      "total":150,
-      "vacant":45
-   },
-   {
-      "sl":66,
-      "district":"Paschim Medinipur",
-      "name":"Debra RH Covid Hospital",
-      "total":40,
-      "vacant":23
-   },
-   {
-      "sl":67,
-      "district":"Purba Burdwan",
-      "name":"Camri Hospital",
-      "total":120,
-      "vacant":38
-   },
-   {
-      "sl":68,
-      "district":"Purba Burdwan",
-      "name":"Bengal Medica Hospital",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":69,
-      "district":"Purba Mednipur",
-      "name":"Chandipur Multi Speciality Hospital",
-      "total":150,
-      "vacant":46
-   },
-   {
-      "sl":70,
-      "district":"Purba Mednipur",
-      "name":"R C N Sanjiban Hospital",
-      "total":50,
-      "vacant":13
-   },
-   {
-      "sl":71,
-      "district":"Purba Mednipur",
-      "name":"Baroma Multi speciality Hospital",
-      "total":150,
-      "vacant":93
-   },
-   {
-      "sl":72,
-      "district":"Purulia",
-      "name":"Rotary Club of Purulia Service Centre -\r\nNursing home",
-      "total":60,
-      "vacant":48
-   },
-   {
-      "sl":73,
-      "district":"Purulia",
-      "name":"R Singhania Seva pratishtan Hospital",
-      "total":60,
-      "vacant":60
-   },
-   {
-      "sl":74,
-      "district":"South 24 Parganas",
-      "name":"ESIC Medical College and Hospital",
-      "total":470,
-      "vacant":394
-   },
-   {
-      "sl":75,
-      "district":"South 24 Parganas",
-      "name":"The Saharahat NH",
-      "total":120,
-      "vacant":120
-   },
-   {
-      "sl":76,
-      "district":"South 24 Parganas",
-      "name":"Maa Durga NH",
-      "total":50,
-      "vacant":50
-   },
-   {
-      "sl":77,
-      "district":"South 24 Parganas",
-      "name":"Canning Covid Hospital (Stadium)",
-      "total":55,
-      "vacant":30
-   },
-   {
-      "sl":78,
-      "district":"South 24 Parganas",
-      "name":"Bharat Sevashram Sangha",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":79,
-      "district":"South 24 Parganas",
-      "name":"Jagannath Gupta Medical College &\r\nHospital",
-      "total":100,
-      "vacant":100
-   },
-   {
-      "sl":80,
-      "district":"South 24 Parganas",
-      "name":"Ispat Cooperative Hospital",
-      "total":125,
-      "vacant":125
-   },
-   {
-      "sl":81,
-      "district":"Uttar Dinajpur",
-      "name":"Mikki Megha Hospital",
-      "total":52,
-      "vacant":0
-   },
-   {
-      "sl":82,
-      "district":"Uttar Dinajpur",
-      "name":"Jeevan Rekha Nursing Home",
-      "total":45,
-      "vacant":45
-   },
-   {
-      "sl":83,
-      "district":"Uttar Dinajpur",
-      "name":"Islampur Urdu Academy",
-      "total":100,
-      "vacant":61
-   },
-   {
-      "sl":"Sr no",
-      "district":"District",
-      "name":"Name of CoVid Hospital",
-      "total":"Total\r\nBeds",
-      "vacant":"Vacant\r\nBeds"
-   },
-   {
       "sl":1,
       "district":"Kolkata",
       "name":"M R Bangur DH & SSH",
       "total":670,
-      "vacant":273
+      "vacant":240
    },
    {
       "sl":2,
       "district":"Kolkata",
       "name":"CNCI",
-      "total":400,
-      "vacant":32
+      "total":425,
+      "vacant":197
    },
    {
       "sl":3,
       "district":"Kolkata",
       "name":"AMRI Salt Lake",
-      "total":64,
-      "vacant":8
+      "total":72,
+      "vacant":20
    },
    {
       "sl":4,
@@ -480,91 +32,91 @@
       "district":"Kolkata",
       "name":"ID BG",
       "total":115,
-      "vacant":5
+      "vacant":22
    },
    {
       "sl":6,
       "district":"Kolkata",
       "name":"KPC Medical College",
       "total":200,
-      "vacant":28
+      "vacant":35
    },
    {
       "sl":7,
       "district":"Kolkata",
       "name":"Kolkata Medical College",
       "total":660,
-      "vacant":137
+      "vacant":144
    },
    {
       "sl":8,
       "district":"Alipurduar",
       "name":"Integrated Ayush (COVID 19) Hospital,\r\nTapsikhata",
       "total":100,
-      "vacant":43
+      "vacant":36
    },
    {
       "sl":9,
       "district":"Bankura",
       "name":"Onda SSH",
       "total":250,
-      "vacant":151
+      "vacant":159
    },
    {
       "sl":10,
-      "district":"Bankura",
-      "name":"Medicare General Hospital (NH)",
+      "district":"North 24 Pgs",
+      "name":"Al Amin Gopalpur Nursing Home",
       "total":50,
-      "vacant":50
+      "vacant":36
    },
    {
       "sl":11,
       "district":"Birbhum",
       "name":"Glocal Hospital, Birbhum",
       "total":50,
-      "vacant":18
+      "vacant":30
    },
    {
       "sl":12,
-      "district":"Birbhum",
-      "name":"RMYF Royal Nursing Home & Diagnostic\r\nCentre",
+      "district":"Bankura",
+      "name":"Medicare General Hospital (NH)",
       "total":50,
-      "vacant":29
+      "vacant":50
    },
    {
       "sl":13,
-      "district":"Birbhum",
-      "name":"Madhumamata Lodge",
-      "total":160,
-      "vacant":160
-   },
-   {
-      "sl":14,
       "district":"Coochbehar",
       "name":"Cooch Behar Mission Hospital",
       "total":110,
-      "vacant":61
+      "vacant":73
+   },
+   {
+      "sl":14,
+      "district":"Dakshin Dinajpur",
+      "name":"Natya Utkarsha Kendra",
+      "total":80,
+      "vacant":58
    },
    {
       "sl":15,
       "district":"Dakshin Dinajpur",
       "name":"Prayas Atreyi Eye Hospital",
       "total":30,
-      "vacant":9
+      "vacant":30
    },
    {
       "sl":16,
       "district":"Darjeeling",
       "name":"Chang Hospital",
       "total":100,
-      "vacant":10
+      "vacant":51
    },
    {
       "sl":17,
       "district":"Darjeeling",
       "name":"Desun CoVid Hospital",
       "total":160,
-      "vacant":92
+      "vacant":86
    },
    {
       "sl":18,
@@ -588,6 +140,454 @@
       "vacant":64
    },
    {
+      "sl":21,
+      "district":"South 24 Parganas",
+      "name":"ESIC Medical College and Hospital",
+      "total":470,
+      "vacant":383
+   },
+   {
+      "sl":22,
+      "district":"South 24 Parganas",
+      "name":"The Saharahat NH",
+      "total":120,
+      "vacant":120
+   },
+   {
+      "sl":23,
+      "district":"South 24 Parganas",
+      "name":"Maa Durga NH",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":24,
+      "district":"Hooghly",
+      "name":"Shramajibi Hospital",
+      "total":100,
+      "vacant":12
+   },
+   {
+      "sl":25,
+      "district":"Hooghly",
+      "name":"ESI Hospital, Bandel",
+      "total":250,
+      "vacant":209
+   },
+   {
+      "sl":26,
+      "district":"Hooghly",
+      "name":"Blue View Nursing Home",
+      "total":30,
+      "vacant":17
+   },
+   {
+      "sl":27,
+      "district":"Hooghly",
+      "name":"Seven Rangers",
+      "total":90,
+      "vacant":90
+   },
+   {
+      "sl":28,
+      "district":"Hooghly",
+      "name":"Kamala Roy",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":29,
+      "district":"Hooghly",
+      "name":"Arambagh Nursing Home",
+      "total":30,
+      "vacant":30
+   },
+   {
+      "sl":30,
+      "district":"Hooghly",
+      "name":"ESI Hospital, Gourhati",
+      "total":216,
+      "vacant":216
+   },
+   {
+      "sl":31,
+      "district":"Howrah",
+      "name":"Sanjiban Hospital",
+      "total":500,
+      "vacant":273
+   },
+   {
+      "sl":32,
+      "district":"Howrah",
+      "name":"ILS, Golabari",
+      "total":100,
+      "vacant":15
+   },
+   {
+      "sl":33,
+      "district":"Howrah",
+      "name":"Satyabala IDH",
+      "total":25,
+      "vacant":4
+   },
+   {
+      "sl":34,
+      "district":"Howrah",
+      "name":"ESI Hospital, Baltikuri",
+      "total":230,
+      "vacant":203
+   },
+   {
+      "sl":35,
+      "district":"Howrah",
+      "name":"Uluberia ESI Hospital",
+      "total":216,
+      "vacant":189
+   },
+   {
+      "sl":36,
+      "district":"Howrah",
+      "name":"Narayana Hospital Old Building, West Bank\r\nHospital",
+      "total":130,
+      "vacant":81
+   },
+   {
+      "sl":37,
+      "district":"Howrah",
+      "name":"TLJ Hospital",
+      "total":250,
+      "vacant":197
+   },
+   {
+      "sl":38,
+      "district":"Jalpaiguri",
+      "name":"Biswabangla Krirangan",
+      "total":200,
+      "vacant":131
+   },
+   {
+      "sl":39,
+      "district":"Jalpaiguri",
+      "name":"Agrasen Hospital",
+      "total":41,
+      "vacant":41
+   },
+   {
+      "sl":40,
+      "district":"Paschim Medinipur",
+      "name":"St. Joseph Hospital",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":41,
+      "district":"Kalimpong",
+      "name":"Triveni Hospital",
+      "total":150,
+      "vacant":108
+   },
+   {
+      "sl":42,
+      "district":"Malda",
+      "name":"EHC Glocal Hospital, Malda",
+      "total":100,
+      "vacant":85
+   },
+   {
+      "sl":43,
+      "district":"Malda",
+      "name":"Dishari Nursing Home, Chanchal",
+      "total":30,
+      "vacant":30
+   },
+   {
+      "sl":44,
+      "district":"Malda",
+      "name":"Manikchak Model School,Manikchak",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":45,
+      "district":"Malda",
+      "name":"Trauma Care Centre",
+      "total":150,
+      "vacant":121
+   },
+   {
+      "sl":46,
+      "district":"Murshidabad",
+      "name":"Old Matri Sadan Hospital",
+      "total":300,
+      "vacant":187
+   },
+   {
+      "sl":47,
+      "district":"Murshidabad",
+      "name":"Monmohini Private Health Care",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":48,
+      "district":"Murshidabad",
+      "name":"Gitaram Private Hospital",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":49,
+      "district":"Murshidabad",
+      "name":"Lalbagh Rainbow Nursshing Home",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":50,
+      "district":"Murshidabad",
+      "name":"Basumati Healthcare Private Ltd",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":51,
+      "district":"Murshidabad",
+      "name":"Khristio Seba Sadan",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":52,
+      "district":"Nadia",
+      "name":"SNR carnival Hospital",
+      "total":120,
+      "vacant":58
+   },
+   {
+      "sl":53,
+      "district":"Nadia",
+      "name":"Glocal Hospital, Nadia",
+      "total":150,
+      "vacant":93
+   },
+   {
+      "sl":54,
+      "district":"Nadia",
+      "name":"T B Hospital, Kalyani",
+      "total":300,
+      "vacant":300
+   },
+   {
+      "sl":55,
+      "district":"Purba Mednipur",
+      "name":"Chandipur Multi Speciality Hospital",
+      "total":150,
+      "vacant":10
+   },
+   {
+      "sl":56,
+      "district":"Purba Mednipur",
+      "name":"R C N Sanjiban Hospital",
+      "total":50,
+      "vacant":22
+   },
+   {
+      "sl":57,
+      "district":"North 24 Pgs",
+      "name":"GNRC",
+      "total":84,
+      "vacant":10
+   },
+   {
+      "sl":58,
+      "district":"North 24 Pgs",
+      "name":"Megacity Nursing Home",
+      "total":50,
+      "vacant":40
+   },
+   {
+      "sl":59,
+      "district":"North 24 Pgs",
+      "name":"Nehru Memorial Techno Global",
+      "total":134,
+      "vacant":87
+   },
+   {
+      "sl":60,
+      "district":"North 24 Pgs",
+      "name":"Bibhuti Nursing Home",
+      "total":10,
+      "vacant":10
+   },
+   {
+      "sl":61,
+      "district":"North 24 Pgs",
+      "name":"Subodh Mitra Cancer Hospital",
+      "total":40,
+      "vacant":40
+   },
+   {
+      "sl":62,
+      "district":"North 24 Pgs",
+      "name":"COM & Sagar Datta Hospital",
+      "total":500,
+      "vacant":273
+   },
+   {
+      "sl":63,
+      "district":"North 24 Pgs",
+      "name":"Charnock Hospital",
+      "total":20,
+      "vacant":20
+   },
+   {
+      "sl":64,
+      "district":"Paschim\r\nBardhaman",
+      "name":"Sanaka Hospital",
+      "total":400,
+      "vacant":170
+   },
+   {
+      "sl":65,
+      "district":"Paschim\r\nBardhaman",
+      "name":"HLG Hospitals",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":66,
+      "district":"Paschim Medinipur",
+      "name":"AYUSH Corona Hospital, Paschim\r\nMedinipore",
+      "total":80,
+      "vacant":8
+   },
+   {
+      "sl":67,
+      "district":"Paschim Medinipur",
+      "name":"Glocal Corona Hospital, Paschim Medinipore",
+      "total":50,
+      "vacant":50
+   },
+   {
+      "sl":68,
+      "district":"Paschim Medinipur",
+      "name":"Salboni SSH",
+      "total":200,
+      "vacant":62
+   },
+   {
+      "sl":69,
+      "district":"Paschim Medinipur",
+      "name":"Debra RH Covid Hospital",
+      "total":40,
+      "vacant":1
+   },
+   {
+      "sl":70,
+      "district":"Purba Burdwan",
+      "name":"Camri Hospital",
+      "total":180,
+      "vacant":114
+   },
+   {
+      "sl":71,
+      "district":"Purba Burdwan",
+      "name":"Bengal Medica Hospital",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":72,
+      "district":"Purba Mednipur",
+      "name":"Baroma Multi speciality Hospital",
+      "total":150,
+      "vacant":83
+   },
+   {
+      "sl":73,
+      "district":"Purulia",
+      "name":"Rotary Club of Purulia Service Centre -\r\nNursing home",
+      "total":60,
+      "vacant":44
+   },
+   {
+      "sl":74,
+      "district":"Purulia",
+      "name":"R Singhania Seva pratishtan Hospital",
+      "total":60,
+      "vacant":60
+   },
+   {
+      "sl":75,
+      "district":"Birbhum",
+      "name":"RMYF Royal Nursing Home & Diagnostic\r\nCentre",
+      "total":50,
+      "vacant":29
+   },
+   {
+      "sl":76,
+      "district":"Birbhum",
+      "name":"Madhumamata Lodge",
+      "total":160,
+      "vacant":160
+   },
+   {
+      "sl":77,
+      "district":"South 24 Parganas",
+      "name":"Canning Covid Hospital (Stadium)",
+      "total":55,
+      "vacant":33
+   },
+   {
+      "sl":78,
+      "district":"South 24 Parganas",
+      "name":"Bharat Sevashram Sangha",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":79,
+      "district":"South 24 Parganas",
+      "name":"Jagannath Gupta Medical College & Hospital",
+      "total":100,
+      "vacant":100
+   },
+   {
+      "sl":80,
+      "district":"South 24 Parganas",
+      "name":"Ispat Cooperative Hospital",
+      "total":125,
+      "vacant":125
+   },
+   {
+      "sl":81,
+      "district":"Uttar Dinajpur",
+      "name":"Mikki Megha Hospital",
+      "total":100,
+      "vacant":72
+   },
+   {
+      "sl":82,
+      "district":"Uttar Dinajpur",
+      "name":"Jeevan Rekha Nursing Home",
+      "total":45,
+      "vacant":45
+   },
+   {
+      "sl":83,
+      "district":"Uttar Dinajpur",
+      "name":"Islampur Urdu Academy",
+      "total":100,
+      "vacant":96
+   },
+   {
+      "sl":84,
+      "district":"Jhargram",
+      "name":"Jhargram Night Shelter",
+      "total":75,
+      "vacant":71
+   },
+   {
       "sl":1,
       "district":"Kolkata",
       "name":"All Asia Medical Institute",
@@ -599,28 +599,28 @@
       "district":"Kolkata",
       "name":"AMRI Hospital, Dhakuria",
       "total":78,
-      "vacant":6
+      "vacant":4
    },
    {
       "sl":3,
       "district":"Kolkata",
       "name":"AMRI Hospital, Dhakuria -{Satellite facility}",
       "total":20,
-      "vacant":0
+      "vacant":6
    },
    {
       "sl":4,
       "district":"Kolkata",
       "name":"AMRI Hospital, Mukundapur",
       "total":30,
-      "vacant":20
+      "vacant":0
    },
    {
       "sl":5,
       "district":"Kolkata",
       "name":"APEX IMS",
       "total":8,
-      "vacant":3
+      "vacant":5
    },
    {
       "sl":6,
@@ -634,28 +634,28 @@
       "district":"Kolkata",
       "name":"Apollo Gleneagles Hospital -{Satellite facility}",
       "total":65,
-      "vacant":0
+      "vacant":4
    },
    {
       "sl":8,
       "district":"Kolkata",
       "name":"B P Poddar",
       "total":98,
-      "vacant":0
+      "vacant":33
    },
    {
       "sl":9,
       "district":"Kolkata",
       "name":"Belle Vue Clinic",
       "total":129,
-      "vacant":43
+      "vacant":42
    },
    {
       "sl":10,
       "district":"Kolkata",
       "name":"Belle Vue Clinic -{Satellite facility}",
       "total":25,
-      "vacant":15
+      "vacant":13
    },
    {
       "sl":11,
@@ -697,29 +697,35 @@
       "district":"Kolkata",
       "name":"Centenary Hospital, SMP, KoPT -{Satellite facility}",
       "total":30,
-      "vacant":10
+      "vacant":12
    },
-   
+   {
+      "sl":17,
+      "district":"N-24 Pgs",
+      "name":"Charnock Hospital",
+      "total":84,
+      "vacant":0
+   },
    {
       "sl":18,
       "district":"N-24 Pgs",
       "name":"Charnock Hospital  -{Satellite facility}",
       "total":19,
-      "vacant":16
+      "vacant":18
    },
    {
       "sl":19,
       "district":"Kolkata",
       "name":"Charring Cross",
       "total":38,
-      "vacant":3
+      "vacant":8
    },
    {
       "sl":20,
       "district":"Kolkata",
       "name":"CMRI",
       "total":84,
-      "vacant":11
+      "vacant":0
    },
    {
       "sl":21,
@@ -740,21 +746,21 @@
       "district":"N-24 Pgs",
       "name":"Dafodil Hospital",
       "total":58,
-      "vacant":0
+      "vacant":6
    },
    {
       "sl":24,
       "district":"Kolkata",
       "name":"Divine Nursing Home",
       "total":25,
-      "vacant":6
+      "vacant":0
    },
    {
       "sl":25,
       "district":"Kolkata",
       "name":"Dream Land Nursing Home",
       "total":16,
-      "vacant":2
+      "vacant":0
    },
    {
       "sl":26,
@@ -768,14 +774,14 @@
       "district":"Kolkata",
       "name":"Ekbalpur Nursing Home",
       "total":43,
-      "vacant":35
+      "vacant":0
    },
    {
       "sl":28,
       "district":"Kolkata",
       "name":"Eskag Sanjeevani Hospital, BagBazar",
-      "total":16,
-      "vacant":3
+      "total":13,
+      "vacant":0
    },
    {
       "sl":29,
@@ -789,14 +795,14 @@
       "district":"Kolkata",
       "name":"GD Hospital & Diabetes Institute",
       "total":16,
-      "vacant":2
+      "vacant":0
    },
    {
       "sl":31,
       "district":"Kolkata",
       "name":"GD Hospital & Diabetes Institute -{Satellite facility}",
       "total":18,
-      "vacant":11
+      "vacant":6
    },
    {
       "sl":32,
@@ -817,14 +823,14 @@
       "district":"N-24 Pgs",
       "name":"ILS Dumdum",
       "total":76,
-      "vacant":0
+      "vacant":14
    },
    {
       "sl":35,
       "district":"N-24 Pgs",
       "name":"ILS Dumdum -{Satellite facility}",
-      "total":72,
-      "vacant":14
+      "total":24,
+      "vacant":2
    },
    {
       "sl":36,
@@ -844,71 +850,71 @@
       "sl":38,
       "district":"Kolkata",
       "name":"Khudiram Hospital",
-      "total":13,
-      "vacant":13
+      "total":14,
+      "vacant":9
    },
    {
       "sl":39,
       "district":"Kolkata",
       "name":"Kothari Medical Centre",
       "total":137,
-      "vacant":7
+      "vacant":10
    },
    {
       "sl":40,
       "district":"Kolkata",
       "name":"Marwari Relief Society",
       "total":31,
-      "vacant":0
+      "vacant":12
    },
    {
       "sl":41,
       "district":"Kolkata",
       "name":"Medica Super Specialty Hospital",
-      "total":132,
-      "vacant":2
+      "total":146,
+      "vacant":9
    },
    {
       "sl":42,
       "district":"Kolkata",
       "name":"Medica Super Specialty Hospital -{Satellite facility}",
       "total":52,
-      "vacant":34
+      "vacant":30
    },
    {
       "sl":43,
       "district":"Kolkata",
       "name":"Mercy Hospital",
       "total":40,
-      "vacant":5
+      "vacant":4
    },
    {
       "sl":44,
       "district":"Kolkata",
       "name":"Nabajiban Hospital Pvt. Ltd.",
       "total":29,
-      "vacant":23
+      "vacant":9
    },
    {
       "sl":45,
       "district":"Kolkata",
       "name":"Nightingale Hospital",
       "total":3,
-      "vacant":1
+      "vacant":3
    },
    {
       "sl":46,
       "district":"Kolkata",
       "name":"North City Hospital",
       "total":26,
-      "vacant":0
+      "vacant":8
    },
    {
       "sl":47,
       "district":"Kolkata",
       "name":"OHIO Hospital",
       "total":22,
-      "vacant":8
+      "vacant":6
    },
    {
       "sl":48,
@@ -921,7 +927,7 @@
       "sl":49,
       "district":"Kolkata",
       "name":"R N Tagore IICS",
-      "total":93,
+      "total":105,
       "vacant":0
    },
    {
@@ -929,14 +935,14 @@
       "district":"Kolkata",
       "name":"R N Tagore IICS -{Satellite facility}",
       "total":52,
-      "vacant":16
+      "vacant":31
    },
    {
       "sl":51,
       "district":"Kolkata",
       "name":"Remedy Hospital",
-      "total":37,
-      "vacant":1
+      "total":42,
+      "vacant":16
    },
    {
       "sl":52,
@@ -950,7 +956,7 @@
       "district":"Kolkata",
       "name":"RSV Hospital",
       "total":12,
-      "vacant":1
+      "vacant":0
    },
    {
       "sl":54,
@@ -963,8 +969,8 @@
       "sl":55,
       "district":"Kolkata",
       "name":"Shushrusha NH",
-      "total":17,
-      "vacant":0
+      "total":20,
+      "vacant":10
    },
    {
       "sl":56,
@@ -978,28 +984,28 @@
       "district":"Kolkata",
       "name":"SVS Marwari",
       "total":20,
-      "vacant":4
+      "vacant":7
    },
    {
       "sl":58,
       "district":"Kolkata",
       "name":"Tata Medical Centre, Newtown [Treats only COVID positive Cancer Patients]",
       "total":15,
-      "vacant":0
+      "vacant":2
    },
    {
       "sl":59,
       "district":"Kolkata",
       "name":"Woodlands Multispecialty Hospital",
       "total":67,
-      "vacant":0
+      "vacant":12
    },
    {
       "sl":60,
       "district":"Kolkata",
       "name":"Woodlands Multispecialty Hospital -{Satellite facility}",
       "total":54,
-      "vacant":20
+      "vacant":27
    },
    {
       "sl":61,
