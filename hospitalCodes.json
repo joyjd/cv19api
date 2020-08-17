@@ -1,5 +1,145 @@
 [
   {
+    "sl": 1,
+    "district": "Kolkata",
+    "name": "M R Bangur DH & SSH",
+    "total": 670,
+    "vacant": 212
+  },
+  {
+    "sl": 2,
+    "district": "Kolkata",
+    "name": "CNCI",
+    "total": 425,
+    "vacant": 228
+  },
+  {
+    "sl": 3,
+    "district": "Kolkata",
+    "name": "AMRI Salt Lake",
+    "total": 72,
+    "vacant": 15
+  },
+  {
+    "sl": 4,
+    "district": "Kolkata",
+    "name": "Desun Hospital, Kolkata",
+    "total": 113,
+    "vacant": 4
+  },
+  {
+    "sl": 5,
+    "district": "Kolkata",
+    "name": "ID BG",
+    "total": 115,
+    "vacant": 15
+  },
+  {
+    "sl": 6,
+    "district": "Kolkata",
+    "name": "KPC Medical College",
+    "total": 200,
+    "vacant": 21
+  },
+  {
+    "sl": 7,
+    "district": "Kolkata",
+    "name": "Kolkata Medical College",
+    "total": 660,
+    "vacant": 132
+  },
+  {
+    "sl": 8,
+    "district": "Alipurduar",
+    "name": "Integrated Ayush (COVID 19) Hospital,\r\nTapsikhata",
+    "total": 100,
+    "vacant": 47
+  },
+  {
+    "sl": 9,
+    "district": "Bankura",
+    "name": "Onda SSH",
+    "total": 250,
+    "vacant": 132
+  },
+  {
+    "sl": 10,
+    "district": "Bankura",
+    "name": "Medicare General Hospital (NH)",
+    "total": 50,
+    "vacant": 50
+  },
+  {
+    "sl": 11,
+    "district": "Birbhum",
+    "name": "Glocal Hospital, Birbhum",
+    "total": 50,
+    "vacant": 29
+  },
+  {
+    "sl": 12,
+    "district": "Birbhum",
+    "name": "RMYF Royal Nursing Home & Diagnostic\r\nCentre",
+    "total": 50,
+    "vacant": 24
+  },
+  {
+    "sl": 13,
+    "district": "Birbhum",
+    "name": "Madhumamata Lodge",
+    "total": 160,
+    "vacant": 160
+  },
+  {
+    "sl": 14,
+    "district": "Coochbehar",
+    "name": "Cooch Behar Mission Hospital",
+    "total": 110,
+    "vacant": 77
+  },
+  {
+    "sl": 15,
+    "district": "Dakshin Dinajpur",
+    "name": "Natya Utkarsha Kendra",
+    "total": 80,
+    "vacant": 66
+  },
+  {
+    "sl": 16,
+    "district": "Dakshin Dinajpur",
+    "name": "Prayas Atreyi Eye Hospital",
+    "total": 30,
+    "vacant": 30
+  },
+  {
+    "sl": 17,
+    "district": "Darjeeling",
+    "name": "Chang Hospital",
+    "total": 100,
+    "vacant": 50
+  },
+  {
+    "sl": 18,
+    "district": "Darjeeling",
+    "name": "Desun CoVid Hospital",
+    "total": 160,
+    "vacant": 107
+  },
+  {
+    "sl": 19,
+    "district": "Darjeeling",
+    "name": "Medica Hospital",
+    "total": 110,
+    "vacant": 110
+  },
+  {
+    "sl": 20,
+    "district": "Darjeeling",
+    "name": "Medica Cancer Hospital",
+    "total": 50,
+    "vacant": 50
+  },
+  {
     "sl": 21,
     "district": "Darjeeling",
     "name": "Nivedita Cancer Hospital",
@@ -446,153 +586,6 @@
     "name": "Islampur Urdu Academy",
     "total": 100,
     "vacant": 96
-  },
-  {
-    "sl": "Sr no",
-    "district": "District",
-    "name": "Name of CoVid Hospital",
-    "total": "Total\r\nBeds",
-    "vacant": "Vacant\r\nBeds"
-  },
-  {
-    "sl": 1,
-    "district": "Kolkata",
-    "name": "M R Bangur DH & SSH",
-    "total": 670,
-    "vacant": 212
-  },
-  {
-    "sl": 2,
-    "district": "Kolkata",
-    "name": "CNCI",
-    "total": 425,
-    "vacant": 228
-  },
-  {
-    "sl": 3,
-    "district": "Kolkata",
-    "name": "AMRI Salt Lake",
-    "total": 72,
-    "vacant": 15
-  },
-  {
-    "sl": 4,
-    "district": "Kolkata",
-    "name": "Desun Hospital, Kolkata",
-    "total": 113,
-    "vacant": 4
-  },
-  {
-    "sl": 5,
-    "district": "Kolkata",
-    "name": "ID BG",
-    "total": 115,
-    "vacant": 15
-  },
-  {
-    "sl": 6,
-    "district": "Kolkata",
-    "name": "KPC Medical College",
-    "total": 200,
-    "vacant": 21
-  },
-  {
-    "sl": 7,
-    "district": "Kolkata",
-    "name": "Kolkata Medical College",
-    "total": 660,
-    "vacant": 132
-  },
-  {
-    "sl": 8,
-    "district": "Alipurduar",
-    "name": "Integrated Ayush (COVID 19) Hospital,\r\nTapsikhata",
-    "total": 100,
-    "vacant": 47
-  },
-  {
-    "sl": 9,
-    "district": "Bankura",
-    "name": "Onda SSH",
-    "total": 250,
-    "vacant": 132
-  },
-  {
-    "sl": 10,
-    "district": "Bankura",
-    "name": "Medicare General Hospital (NH)",
-    "total": 50,
-    "vacant": 50
-  },
-  {
-    "sl": 11,
-    "district": "Birbhum",
-    "name": "Glocal Hospital, Birbhum",
-    "total": 50,
-    "vacant": 29
-  },
-  {
-    "sl": 12,
-    "district": "Birbhum",
-    "name": "RMYF Royal Nursing Home & Diagnostic\r\nCentre",
-    "total": 50,
-    "vacant": 24
-  },
-  {
-    "sl": 13,
-    "district": "Birbhum",
-    "name": "Madhumamata Lodge",
-    "total": 160,
-    "vacant": 160
-  },
-  {
-    "sl": 14,
-    "district": "Coochbehar",
-    "name": "Cooch Behar Mission Hospital",
-    "total": 110,
-    "vacant": 77
-  },
-  {
-    "sl": 15,
-    "district": "Dakshin Dinajpur",
-    "name": "Natya Utkarsha Kendra",
-    "total": 80,
-    "vacant": 66
-  },
-  {
-    "sl": 16,
-    "district": "Dakshin Dinajpur",
-    "name": "Prayas Atreyi Eye Hospital",
-    "total": 30,
-    "vacant": 30
-  },
-  {
-    "sl": 17,
-    "district": "Darjeeling",
-    "name": "Chang Hospital",
-    "total": 100,
-    "vacant": 50
-  },
-  {
-    "sl": 18,
-    "district": "Darjeeling",
-    "name": "Desun CoVid Hospital",
-    "total": 160,
-    "vacant": 107
-  },
-  {
-    "sl": 19,
-    "district": "Darjeeling",
-    "name": "Medica Hospital",
-    "total": 110,
-    "vacant": 110
-  },
-  {
-    "sl": 20,
-    "district": "Darjeeling",
-    "name": "Medica Cancer Hospital",
-    "total": 50,
-    "vacant": 50
   },
   {
     "sl": "Sl.",
